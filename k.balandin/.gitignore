@@ -1,0 +1,9 @@
+setuid_test
+ex_time
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.swp
+*~
